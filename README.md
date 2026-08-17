@@ -3,7 +3,7 @@
 Repositório público com a estrutura de envio de emails em R utilizada durante Minicurso
 
 ## Sobre
-Este script demonstra pipelines básicos de limpeza e processamento de dados usando `dplyr`, `StringR`, `gmailR`. Ele foi desenhado para fins didáticos, mostrando como enviar emails em R para uma lista grande de participantes.
+Este script demonstra pipelines básicos de limpeza e processamento de dados usando `dplyr`, `gmailR`. Ele foi desenhado para fins didáticos, mostrando como enviar emails em R para uma lista grande de participantes.
 
 ## Data Management Plan
 O projeto seguiu os princípios de minimização de dados:
